@@ -1,0 +1,62 @@
+body {
+    background: linear-gradient(#8c55ff 0%, #5a3cd3 100%);
+    text-align: center;
+}
+
+#plus {
+    background-color: aquamarine;
+    font-size: 18px;
+    transition: transform .2s;
+}
+
+#plus:hover {
+    transform: scale(0.9);
+}
+
+#minus {
+    background-color: lightsalmon;
+    font-size: 18px;
+    transition: transform .2s;
+}
+
+#minus:hover {
+    transform: scale(0.9);
+}
+
+#into {
+    background-color: beige;
+    font-size: 18px;
+    transition: transform .2s;
+}
+
+#into:hover {
+    transform: scale(0.9);
+}
+
+#by {
+    background-color: lightcoral;
+    font-size: 18px;
+    transition: transform .2s;
+}
+
+#by:hover {
+    transform: scale(0.9);
+}
+
+#numeral_1 {
+    background-color: lavender;
+    transition: transform .2s;
+}
+
+#numeral_1:hover {
+    transform: scale(0.9);
+}
+
+#numeral_2 {
+    background-color: lime;
+    transition: transform .2s;
+}
+
+#numeral_2:hover {
+    transform: scale(0.9);
+}
